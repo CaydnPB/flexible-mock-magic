@@ -1,3 +1,20 @@
+<h1 align="center">Flexible Mock Magic</h1>
+<div align="center">
+  <h2>Background</h2>
+  <img src="./img/gradient.svg" alt="A gradient separator used to distinguish sections of the page" draggable="false"
+    style="max-width: 100%;" title="Gradient Separator">
+</div>
+<br>
+<p>
+  👨‍💻 This repository was created as a part of my <a href="https://www.multiverse.io/en-GB/programmes/software-engineering" draggable="false">Multiverse Bootcamp</a>
+</p>
+<div align="center">
+  <h2>Original README</h2>
+  <img src="./img/gradient.svg" alt="A gradient separator used to distinguish sections of the page" draggable="false"
+    style="max-width: 100%;" title="Gradient Separator">
+</div>
+<br>
+<p>
 # Flexible Mock Magic
 
 **GOAL**: You have been tasked with tasked with designing a mockup of a webpage for a new company that wants to create a social media platform for coders. They have provided the following mockup for their desired output.
@@ -46,3 +63,13 @@ Explore the [CSS Tricks Documentation](https://css-tricks.com/snippets/css/a-gui
 - `flex-shrink`
 - `flex-basis`
 - `flex`
+</p>
+<div align="center">
+  <img src="./img/gradient.svg" alt="A gradient separator used to distinguish sections of the page" draggable="false"
+    style="max-width: 100%;" title="Gradient Separator">
+</div>
+<br>
+<div align="center">
+  <img src="./img/madebycaydn.svg" alt="A badge showing that this was 'Made by Caydn'" draggable="false"
+    title="Made by Caydn">
+</div>
